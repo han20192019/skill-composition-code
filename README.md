@@ -8,6 +8,14 @@ Paper: https://arxiv.org/abs/2509.16053
 This repository implements an object-centric 3D diffusion policy pipeline that is effective for skill composition and long-horizon, multi-step robotic tasks.
 
 ---
+## 🚀 Run in Google Colab
+
+You can try **Compose by Focus** directly in Google Colab without any local setup. It provides an easy-to-use implementation of our **scene graph–based 3D diffusion policy**.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SC5LtujSxPg8VEdq5rJdLHosLFLJ_a81?usp=sharing)
+
+
+---
 ## Quick Start
 
 
